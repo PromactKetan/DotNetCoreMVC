@@ -1,0 +1,11 @@
+c:\users\ketan\source\repos\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.0\EmployeeManagement.deps.json
+c:\users\ketan\source\repos\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.0\EmployeeManagement.runtimeconfig.json
+c:\users\ketan\source\repos\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.0\EmployeeManagement.runtimeconfig.dev.json
+c:\users\ketan\source\repos\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.0\EmployeeManagement.dll
+c:\users\ketan\source\repos\EmployeeManagement\EmployeeManagement\bin\Debug\netcoreapp2.0\EmployeeManagement.pdb
+c:\users\ketan\source\repos\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.0\EmployeeManagement.csprojAssemblyReference.cache
+c:\users\ketan\source\repos\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.0\EmployeeManagement.csproj.CoreCompileInputs.cache
+c:\users\ketan\source\repos\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.0\EmployeeManagement.AssemblyInfoInputs.cache
+c:\users\ketan\source\repos\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.0\EmployeeManagement.AssemblyInfo.cs
+c:\users\ketan\source\repos\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.0\EmployeeManagement.dll
+c:\users\ketan\source\repos\EmployeeManagement\EmployeeManagement\obj\Debug\netcoreapp2.0\EmployeeManagement.pdb
